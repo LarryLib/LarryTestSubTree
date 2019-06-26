@@ -9,6 +9,6 @@
 import Foundation
 
 /// 整数求和
-func add(_ a: Int, _ b: Int) -> Int {
+public func add(_ a: Int, _ b: Int) -> Int {
     return a + b
 }
