@@ -20,5 +20,5 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://www.36notes.com' }
   s.ios.deployment_target = '9.1'
   s.swift_version         = '4.2'
-  s.source_files = 'LarryTestSubTree/FuncMoudle/*.swift'
+  s.source_files = 'LarryTestSubTree/FuncMoudle/*'
 end
